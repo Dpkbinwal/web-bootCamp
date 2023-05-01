@@ -1,0 +1,15 @@
+a:link{color:black;} a:visited{color:pink;} a:active{color:red;} a:hover{color:green;} 
+ 
+.right {              text-align:center;             text-decoration:underline;             font-weight:bold;             color:blue;             font-family:comic sans ms;             font-size:30; } 
+.image {   
+              text-align:left; 
+              font-family:"monotype corsiva";               font-weight:10; 
+               } 
+  
+.image1 { 
+                  background-image:url("https://images.unsplash.com/photo-1679159748666-77baea25e928?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1228&q=80"); 
+                  background-attachment:fixed;  	background-repeat:no-repeat; 
+                  width:150;                   height:150;  } table { align:center;border:10;   border-style:ridge;   border-color:yellow;} 
+ 
+ 
+ 
